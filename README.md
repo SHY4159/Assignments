@@ -6,7 +6,7 @@
 
 [Introduction of Sogou Encyclopedia](https://baike.sogou.com/v182431143.htm?fromTitle=%E7%81%B5%E7%AC%BC)
 
-* [More picture and introduction about it](/Extension.md)(*to another md*)
+* [More introduction about it](/Extension.md)(*to Extension.md*)
 
 1.
 
