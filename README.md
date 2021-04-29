@@ -10,7 +10,8 @@
 
 1.
 
-![](/INCARNATION.jpeg 'INCARNATION')
+![](https://github.com/SHY4159/Assignments/INCARNATION.jpeg
+ 'INCARNATION')
 
 2.
 
