@@ -14,7 +14,7 @@
 
 2.
 
-![](http://5b0988e595225.cdn.sohucs.com/images/20190909/d1944fa28bc64e1c86e496bf54ed2654.jpeg)
+![](http://5b0988e595225.cdn.sohucs.com/images/20190925/d0546c5b0cf343e594ca9185039908f2.png)
 
  ```C
 int main() 
